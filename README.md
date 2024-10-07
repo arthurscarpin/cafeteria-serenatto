@@ -12,6 +12,7 @@ Esse é um Web Site estático responsivo da Cafeteria Serenatto, uma cafeteria f
 ![img-cafeteria-serenatto-light](https://github.com/user-attachments/assets/158bb73a-c14d-4c4b-b7d6-60883b10d42c)
 
 ![img-cafeteria-serenatto-dark](https://github.com/user-attachments/assets/315336f3-0708-4584-942d-c6177e5c0034)
+[Deploy Cafeteria Serenatto](https://arthurscarpin.github.io/cafeteria-serenatto/)
 
 ## 🫖 Técnicas de design
 - HTML semântico;
